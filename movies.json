@@ -1,0 +1,151 @@
+[
+    {
+        "title":"Jurassic World Dominion",
+        "year":2022,
+        "director":"Colin Trevorrow",
+        "leadActor":"Chris Pratt",
+        "leadActress":"Bryce Dallas Howard",
+        "rating":7
+
+
+    },
+    {
+        "title":"Minions: The Rise of Gru",
+        "year":2022,
+        "director":"Kyle Balda",
+        "leadActor":"Steve Carell",
+        "leadActress":"Taraji P. Henson",
+        "rating":8
+    },
+    {
+        "title":"The Hunger Games: Mockingjay - Part 1",
+        "year":2022,
+        "director":"Francis Lawrence",
+        "leadActor":"Jennifer Lawrence",
+        "leadActress":"Kristen Stewart",
+        "rating":9
+    },
+    {
+        "title":"The Hunger Games: Mockingjay - Part 2",
+        "year":2022,
+        "director":"Francis Lawrence",
+        "leadActor":"Jennifer Lawrence",
+        "leadActress":"Kristen Stewart",
+        "rating":10
+    },
+    {
+        "title":"The Hunger Games: Catching Fire",
+        "year":2022,
+        "director":"Francis Lawrence",
+        "leadActor":"Jennifer Lawrence",
+        "leadActress":"Kristen Stewart",
+        "rating":9
+    },
+    {
+        "title":"The Hunger Games: The Last Wish",
+        "year":2022,
+        "director":"Francis Lawrence",
+        "leadActor":"Jennifer Lawrence",
+        "leadActress":"Kristen Stewart",
+        "rating":8
+    },
+    {
+        "title":"Top Gun: Maverick",
+        "year":2022,
+        "director":"Tony Scott",
+        "leadActor":"Tom Cruise",
+        "leadActress":"Jennifer Connelly",
+        "rating":9
+
+    },
+    {
+        "title":"The Twilight Saga: New Moon",
+        "year":2022,
+        "director":"Bill Condon",
+        "leadActor":"Kristen Stewart",
+        "leadActress":"Kristen Stewart",
+        "rating":8
+    },
+    {
+        "title":"The Twilight Saga: Eclipse",
+        "year":2022,
+        "director":"Bill Condon",
+        "leadActor":"Kristen Stewart",
+        "leadActress":"Kristen Stewart",
+        "rating":7
+    },
+    {
+        "title":"The Twilight Saga: Breaking Dawn",
+        "year":2022,
+        "director":"Bill Condon",
+        "leadActor":"Kristen Stewart",
+        "leadActress":"Kristen Stewart",
+        "rating":6
+    },
+    {
+        "title":"Lightyear",
+        "year":2022,
+        "director":"Angus MacLane",
+        "leadActor":"Chris Evans",
+        "leadActress":"Keke Palmer",
+        "rating":7
+    },
+    {
+        "title":"The Incredibles",
+        "year":2022,
+        "director":"Brad Bird",
+        "leadActor":"Craig T. Nelson",
+        "leadActress":"Holly Hunter",
+        "rating":8
+    },
+    {
+        "title":"The Incredibles 2",
+        "year":2022,
+        "director":"Brad Bird",
+        "leadActor":"Craig T. Nelson",
+        "leadActress":"Holly Hunter",
+        "rating":9
+    },
+    {
+        "title":"The Incredibles 3",
+        "year":2022,
+        "director":"Brad Bird",
+        "leadActor":"Craig T. Nelson",
+        "leadActress":"Holly Hunter",
+        "rating":10
+    },
+    {
+        "title":"The Incredibles: The Curse of the Jewels",
+        "year":2022,
+        "director":"Brad Bird",
+        "leadActor":"Craig T. Nelson",
+        "leadActress":"Holly Hunter",
+        "rating":9
+    },
+    {
+        "title":"The Incredibles: A New Beginning",
+        "year":2022,
+        "director":"Brad Bird",
+        "leadActor":"Craig T. Nelson",
+        "leadActress":"Holly Hunter",
+        "rating":8
+    },
+    {
+        "title":"The Incredibles: Rise of the Underminer",
+        "year":2022,
+        "director":"Brad Bird",
+        "leadActor":"Craig T. Nelson",
+        "leadActress":"Holly Hunter",
+        "rating":7
+    },
+    {
+        "title":"The Incredibles: The Return of the Joker",
+        "year":2022,
+        "director":"Brad Bird",
+        "leadActor":"Craig T. Nelson",
+        "leadActress":"Holly Hunter",
+        "rating":6
+    }
+    
+    
+]

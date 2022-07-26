@@ -1,0 +1,12 @@
+-- CreateTable
+CREATE TABLE "Movies" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "title" TEXT NOT NULL,
+    "year" INTEGER NOT NULL,
+    "director" TEXT NOT NULL,
+    "leadActor" TEXT NOT NULL,
+    "leadActress" TEXT NOT NULL,
+    "rating" INTEGER NOT NULL,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
